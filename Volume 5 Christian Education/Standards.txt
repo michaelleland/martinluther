@@ -4,72 +4,87 @@ Multiple verses: Book Chapter:Verse1,Verse2 (e.g. Matt. 5:3,5)
 Range of Verses Book Chapter:Verse 1-Verse n (e.g. Matt. 5:3-11)
 
 
-Old Testement
-Genesis - Gen
-Exodus - Exo
-Leviticus - Lev
-Numbers - Num
-Deuteronomy - Deu
-Joshua - Josh
-Judges - Judg
+#Old Testement
+Genesis - Gen.
+Exodus - Exod.
+Leviticus - Lev.
+Numbers - Num.
+Deuteronomy - Deut.
+Joshua - Josh.
+Judges - Judg.
 Ruth - Ruth
-1 Samuel - 1 Sam
-2 Samuel - 2 Sam
+1 Samuel - 1 Sam.
+2 Samuel - 2 Sam.
 1 Kings - 1 Kings
 2 Kings - 2 Kings
-1 Chronicals - 1 Chr
-2 Chronicals - 2 Chr
+1 Chronicals - 1 Chron.
+2 Chronicals - 2 Chron.
 Ezra - Ezra
-Nehemiah - Neh
-Esther - Est
+Nehemiah - Neh.
+Esther - Esther
 Job - Job
-Psalms - Psa
-Proverbs - Prov
-Ecclesiastes - Ecc
-Song of Solomon - Song
-Isaiah - Isa
-Jerimiah - Jer
-Lamentaions - Lam
-Ezekiel - Eze
-Daniel - Dan
-Hosea - Hos
+Psalms - Ps.
+Proverbs - Prov.
+Ecclesiastes - Eccles.
+Song of Solomon - Song of Sol.
+Isaiah - Isa.
+Jerimiah - Jer.
+Lamentaions - Lam.
+Ezekiel - Ezel.
+Daniel - Dan.
+Hosea - Hosea
 Joel - Joel
-Amus - Amus
-Obadiah - Oba
-Jonah - Jonah
-Micah - Micah
-Nahum - Nahum
-Habakkuk - Hab
-Zephaniah - Zeph
-Haggai - Hag
-Zechariah - Zech
-Malachi - Mal
+Amos - Amos
+Obadiah - Obad.
+Jonah - Jon.
+Micah - Mic.
+Nahum - Nah.
+Habakkuk - Hab.
+Zephaniah - Zeph.
+Haggai - Hag.
+Zechariah - Zech.
+Malachi - Mal.
 
-New Testement
-Matthew - Matt
+#The Apocrypha
+Bar. - Baruch
+Ecclus. - Ecclesiasticus
+1 Esd. - 1 Esdras
+2 Esd. - 2 Esdras
+Jth. - Judith
+1 Macc. - 1 Maccabees
+2 Macc. - 2 Maccabees
+Pr. of Man. - Prayer of Manasses
+Sir - Sirach
+Song of Three Children - Song of the Three Holy Children
+Sus. - Susanna
+Tob. - Tobit
+Wisd. of Sol. - Wisdom of Solomon
+
+#New Testement
+Matthew - Matt.
 Mark - Mark
 Luke - Luke
 John - John
-Acts - Act
-Romans - Rom
-1 Corinthians - 1 Cor
-2 Corinthians - 2 Cor
-Galatians - Gal
-Ephisians - Eph
-Philippians - Phil
-Colossians - Col
-1 Thessolonians - 1 Thess
-2 Thessolonians - 2 Thess
-1 Timothy - 1 Tim
-2 Timothy - 2 Tim
+Acts - Acts
+Romans - Rom.
+1 Corinthians - 1 Cor.
+2 Corinthians - 2 Cor.
+Galatians - Gal.
+Ephisians - Eph.
+Philippians - Phil.
+Colossians - Col.
+1 Thessolonians - 1 Thess.
+2 Thessolonians - 2 Thess.
+1 Timothy - 1 Tim.
+2 Timothy - 2 Tim.
 Titus - Tit
-Philemon - Phil
-Hebrews - Heb
+Philemon - Philem.
+Hebrews - Heb.
 James - James
-1 Peter - 1 Pet
-2 Peter - 2 Pet
+1 Peter - 1 Pet.
+2 Peter - 2 Pet.
 1 John - 1 John
 2 John - 2 John
 3 John - 3 John
 Jude - Jude
-Revelation - Rev
+Revelation - Rev.
